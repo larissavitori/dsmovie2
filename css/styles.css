@@ -98,7 +98,8 @@ a:a:hover {
     text-align: center;
 }
 
-.dsmovie-btn, .dsmovie-btn:hover {
+.dsmovie-btn,
+.dsmovie-btn:hover {
     width: 180px;
     height: 40px;
     background-color: var(--color-primary);
@@ -110,4 +111,8 @@ a:a:hover {
     justify-content: center;
     border-radius: 4px;
     border: 0;
+}
+
+.dsmovie-form-conteiner {
+    padding: 40px 0;
 }
